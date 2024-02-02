@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "D58sDQA9zLT+0RGu8uIp4HuCtMcdLiaEw3k3z4hxmTtW0l9G/LSIqGn2i8dM8EeGyJtarUUO0qFMX5zOBhgqHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Victor.efsilva\\source\\repos\\Doador.API\\Doador.Service\\Doador.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Victor.efsilva\\.nuget\\packages\\dapper\\2.1.28\\dapper.2.1.28.nupkg.sha512",
+    "C:\\Users\\Victor.efsilva\\.nuget\\packages\\sqlitepclraw.core\\2.1.7\\sqlitepclraw.core.2.1.7.nupkg.sha512",
+    "C:\\Users\\Victor.efsilva\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

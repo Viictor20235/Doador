@@ -1,0 +1,8 @@
+C:\Users\Victor.efsilva\source\repos\Doador.API\Doador.API\obj\Debug\net8.0\Doador.API.csproj.AssemblyReference.cache
+C:\Users\Victor.efsilva\source\repos\Doador.API\Doador.API\obj\Debug\net8.0\Doador.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor.efsilva\source\repos\Doador.API\Doador.API\obj\Debug\net8.0\Doador.API.AssemblyInfoInputs.cache
+C:\Users\Victor.efsilva\source\repos\Doador.API\Doador.API\obj\Debug\net8.0\Doador.API.AssemblyInfo.cs
+C:\Users\Victor.efsilva\source\repos\Doador.API\Doador.API\obj\Debug\net8.0\Doador.API.csproj.CoreCompileInputs.cache
+C:\Users\Victor.efsilva\source\repos\Doador.API\Doador.API\obj\Debug\net8.0\Doador.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Victor.efsilva\source\repos\Doador.API\Doador.API\obj\Debug\net8.0\Doador.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Victor.efsilva\source\repos\Doador.API\Doador.API\obj\Debug\net8.0\Doador.API.sourcelink.json
